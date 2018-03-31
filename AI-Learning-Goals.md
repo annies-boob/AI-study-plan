@@ -1,27 +1,22 @@
 # AI-Learning-Goals
 
 ##  Step x (benificial background information)
-- [x] Naked Statistics (Charles Wheelan)
-- [x] An Introduction to Neural Networks - Kevin Gurney
+- [ ] Naked Statistics (Charles Wheelan)
+- [ ] An Introduction to Neural Networks - Kevin Gurney
 - [x] Linear Algebra (MIT OCW)
-- [x] 3Blue1Brown Neural Nets and Linear Algebra videos. (super intuitive)
-- [x] Big Picture Of Calclus (MIT OCW)
-- [x] Art of Engineering and Science Learning to Learn - Richard Hamming (Probably my favorite book of all time)
-- [x] Introduction to Mathematical Reasoning - Coursera
-- [x] Introduction to Logic - Coursera
-- [x] How to Think Like a Computer Scientist - Runestone interactive
-- [x] Data Structures with Python - Runestone Academy
-- [ ] Art of Computer Programming 
-##  Step x
-- [x] Fast.ai (Online Course Part 1)
-- [x] Introduction to AI (Udacity Course)
-- [x] Intro to Machine Learning (Udacity Course)
-- [x] Read Matrix Calculus for Deep Learning (Terence Parr and Jeremy Howard)
+- [ ] 3Blue1Brown Neural Nets and Linear Algebra videos. (super intuitive)
+- [ ] Big Picture Of Calclus (MIT OCW)
 
 ##  Step x
-- [x] Coursera 5 Course Specialization (Ng, in python)
-- [x] Other Ng course on Coursera (longer one, in matlab)
-- [x] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012 (hour long talk)
+- [ ] Fast.ai (Online Course Part 1)
+- [ ] Introduction to AI (Udacity Course)
+- [ ] Intro to Machine Learning (Udacity Course)
+- [ ] Read Matrix Calculus for Deep Learning (Terence Parr and Jeremy Howard)
+
+##  Step x
+- [ ] Coursera 5 Course Specialization (Ng, in python)
+- [ ] Other Ng course on Coursera (longer one, in matlab)
+- [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012 (hour long talk)
 
 ## Wasnt getting the in depth understading i wanted so taking a little break from the AI to learn a lot of math and stats aswell as information theory and to develop an abstract mathematical mind
 
@@ -89,13 +84,6 @@ Bertsimas, D. and Tsitsiklis, J. (1997). "Introduction to Linear Optimization" A
 ## Stuff with Text
 - [ ] Introduction to Information Retrieval - Christopher D. Manning (available free online)
 - [ ] Foundations of Statistical Natural Language Processing - Christopher D. Manning
-
-## Network-Theory (Maybe)
-- [ ] Introductory Graph Theory - Gary Chartrand
-- [ ] Social Network Analysis - Stanley Wasserman
-- [ ] Statistical Analysis of Network Data - Eric D. Kolaczyk
-- [ ] Network Flows - Ravindra K. Ahuja
-- [ ] Fundamentals in Queuing Theory - Donald Gross, et al.
 
 From here on I will fill my gaps with these (List taken from Michael Jordan's recommended readings)
 
